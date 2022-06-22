@@ -59,7 +59,7 @@
  3.5. 플레이어가 찾아서 클릭한 아이템의 정보와 찾은 아이템의 총 갯수를 출력.<br>
 	 (Collider Component가 있는 물체들을 클릭하여 Ray 광선을 쏘고, 그 물체의 정보를 얻는 RayCast 방법 사용)<br>
 		- ItemCollection.cs<br>
-		[참조링크] https://dhy948.tistory.com/9     
+		[참고링크] https://dhy948.tistory.com/9     
 		
  3.6. 게임 성공화면과 실패화면에 텍스트가 한 줄씩 뜨도록 함.<br>
 		- ChatController1.cs, ChatController2.cs      
